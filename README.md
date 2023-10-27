@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Haven**
 
-- 🌱 I’m currently learning **Rust and compilers**
+- 🌱 I’m currently learning **C**
 
 - 🤝 I’m looking for help with **Guara**
 

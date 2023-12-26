@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Lua**
 
-- 🤝 I’m looking for help with **KanjiFlash**
+- 🤝 I’m looking for help with **KanjiSenkou**
 
 
 <h3 align="left">Languages and Tools:</h3>

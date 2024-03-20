@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Cavendish**
 
-- 🌱 I’m currently learning **Dart**
+- 🌱 I’m currently learning **Go**
 
 - 🤝 I’m looking for help with **Cavendish**
 

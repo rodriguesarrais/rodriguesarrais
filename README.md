@@ -2,9 +2,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rodriguesarrais&label=Profile%20views&color=0e75b6&style=flat" alt="rodriguesarrais" /> </p>
 
-- 🔭 I’m currently working on **Alien Homestead**
+- 🔭 I’m currently working on **Bottomless Hell**
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **C++**
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">

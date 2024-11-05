@@ -1,13 +1,17 @@
 <h3 align="center">Hi! I'm Arrais, a passionate developer from Brazil!</h3>
 
+## About me
+
+I am a software developer with a passion for technology and a constant drive to learn. Currently, I am honing my software development skills by applying practical knowledge in TypeScript, with React, as well as backend services with Node.js, acting as a full-stack developer. I have a knack for some low-level programming topics too, such as game development and computer graphics simulations. In these topics, i try to implement most of my code myself, as a way to learn more and keep my programming/architectural skills sharp. I love coding!
+
 <img src="https://github.com/user-attachments/assets/ae4b737c-1f99-404d-be8a-3732062ebaba" alt="hello-world" style="display: block; margin-left: auto; margin-right: auto;">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rodriguesarrais&label=Profile%20views&color=0e75b6&style=flat" alt="rodriguesarrais" /> </p>
 
-## About me...
-
+## TL;DR
+I'm:
 -  Always exploring new tech and developing new software.
--  Software Engineering graduate at iCEV - Instituto de Ensino Superior.
+-  Graduating in Software Engineering at iCEV - Instituto de Ensino Superior.
 -  Working as a Typescript Fullstack Developer.
 -  Currently learning more about Gamedev and Computer Graphics; using C++ and Java.
 

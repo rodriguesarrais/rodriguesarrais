@@ -11,7 +11,7 @@ I am a software developer with a passion for technology and a constant drive to 
 ## TL;DR
 I'm:
 -  Always exploring new tech and developing new software.
--  Graduating in Software Engineering at iCEV - Instituto de Ensino Superior.
+-  Graduating in Software Engineering.
 -  Working as a Typescript Fullstack Developer.
 -  Currently learning more about Gamedev and Computer Graphics; using C++ and Java.
 

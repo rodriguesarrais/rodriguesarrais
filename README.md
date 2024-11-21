@@ -44,6 +44,7 @@ I'm:
 ![Unity](https://img.shields.io/badge/-Unity-333333?style=flat&logo=unity&logoColor=FFFFFF)
 ![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-333333?style=flat&logo=unrealengine&logoColor=FFFFFF)
 ![GameMaker Studio 2](https://img.shields.io/badge/-GameMaker%20Studio%202-333333?style=flat&logo=gamemaker&logoColor=008080)
+![RPG Maker MV](https://img.shields.io/badge/-RPG%20Maker%20MV-333333?style=flat&logo=vscode&logoColor=007ACC)
 ![Godot](https://img.shields.io/badge/-Godot-333333?style=flat&logo=godotengine&logoColor=8FD9FB)
 
 **Asset Creation Software**

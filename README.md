@@ -33,6 +33,12 @@ I'm:
 ![JSON](https://img.shields.io/badge/-JSON-333333?style=flat&logo=json&logoColor=6C72BF)
 ![CSS3](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 
+**Web Frameworks**
+
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react&logoColor=61DBFB)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js&logoColor=339933)
+![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi&logoColor=008080)
+
 **Game Engines**
 
 ![Unity](https://img.shields.io/badge/-Unity-333333?style=flat&logo=unity&logoColor=FFFFFF)

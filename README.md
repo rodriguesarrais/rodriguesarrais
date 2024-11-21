@@ -24,7 +24,7 @@ I'm:
 ![Lua](https://img.shields.io/badge/-Lua-333333?style=flat&logo=lua&logoColor=000080)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-![GML](https://img.shields.io/badge/-GameMakerLanguage-333333?style=flat&logo=vscode&logoColor=007ACC)
+![GML](https://img.shields.io/badge/-GML-333333?style=flat&logo=vscode&logoColor=007ACC)
 <!--![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php&logoColor=BB7772) -->
 
 **Markup Languages**

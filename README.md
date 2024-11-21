@@ -11,50 +11,75 @@ I am a software developer with a passion for technology and a constant drive to 
 ## TL;DR
 I'm:
 -  Always exploring new tech and developing new software.
--  Graduating in Software Engineering.
--  Working as a Typescript Fullstack Developer.
--  Currently learning more about Gamedev and Computer Graphics; using C++ and Java.
+-  Working as a TypeScript Fullstack Developer.
+-  Currently learning more about Gamedev and Computer Graphics; using C# and C++.
 
-## My Skills...
+## My preffered tools, by proficiency
 
-**Favorite Programming Languages**
+**Programming Languages**
 
+![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=dotnet&logoColor=A179DC)
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=FFD43B)
 ![Lua](https://img.shields.io/badge/-Lua-333333?style=flat&logo=lua&logoColor=000080)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php&logoColor=BB7772)
+<!--![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php&logoColor=BB7772) -->
 
 **Markup Languages**
 
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![XML](https://img.shields.io/badge/-XML-333333?style=flat&logo=xml&logoColor=0069a9)
 ![JSON](https://img.shields.io/badge/-JSON-333333?style=flat&logo=json&logoColor=6C72BF)
+![CSS3](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 
-**Utilities**
+**Game Engines**
+
+![Unity](https://img.shields.io/badge/-Unity-333333?style=flat&logo=unity&logoColor=FFFFFF)
+![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-333333?style=flat&logo=unrealengine&logoColor=FFFFFF)
+![GameMaker Studio 2](https://img.shields.io/badge/-GameMaker%20Studio%202-333333?style=flat&logo=gamemaker&logoColor=008080)
+![Godot](https://img.shields.io/badge/-Godot-333333?style=flat&logo=godotengine&logoColor=8FD9FB)
+
+**Asset Creation Software**
+
+<h6>2D and 3D Asset Creation Software</h6>
+
+![Aseprite](https://img.shields.io/badge/-Aseprite-333333?style=flat&logo=aseprite&logoColor=white)
+![Blender](https://img.shields.io/badge/-Blender-333333?style=flat&logo=blender&logoColor=F57922)
+
+<h6>DAWs</h6>
+
+![Audacity](https://img.shields.io/badge/-Audacity-333333?style=flat&logo=audacity&logoColor=FFC107)
+![Reaper](https://img.shields.io/badge/-Reaper-333333?style=flat&logo=reaper&logoColor=008080)
+
+**General Utilities**
 
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 
 **DevOps**
 
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github&logoColor=white)
+![GitHub Desktop](https://img.shields.io/badge/-GitHub%20Desktop-333333?style=flat&logo=github&logoColor=A179DC)
 ![GitLab](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=gitlab)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
 **Dev Tools**
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=vscode&logoColor=007ACC)
 ![Visual Studio 2022](https://img.shields.io/badge/-Visual%20Studio%2022-333333?style=flat&logo=visualstudio&logoColor=5C2D91)
-![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-![Notepad++](https://img.shields.io/badge/-Notepad%2B%2B-333333?style=flat&logo=notepad-plus-plus&logoColor=0098DA)
-![Emacs](https://img.shields.io/badge/-Emacs-333333?style=flat&logo=emacs&logoColor=215E7D)
+![Notepad++](https://img.shields.io/badge/-Notepad%2B%2B-333333?style=flat&logo=notepadplusplus&logoColor=0098DA)
 ![DBeaver](https://img.shields.io/badge/-DBeaver-333333?style=flat&logo=dbeaver&logoColor=336699)
+
+**Project Management**
+
 ![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira&logoColor=0052cc)
 ![Redmine](https://img.shields.io/badge/-Redmine-333333?style=flat&logo=Redmine&logoColor=d6338b)
+
+**Design Tools**
+
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=style=flat&logo=figma&logoColor=007ACC)
+![Canva](https://img.shields.io/badge/-Canva-333333?style=flat&logo=canva&logoColor=00A1F1)
 
 <br/>
 

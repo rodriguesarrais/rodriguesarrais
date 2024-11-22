@@ -12,7 +12,7 @@ I am a software developer with a passion for technology and a constant drive to 
 I'm:
 -  Always exploring new tech and developing new software.
 -  Working as a TypeScript Fullstack Developer.
--  Currently learning more about Gamedev and Computer Graphics; using C# and C++.
+-  Currently learning more about Game Development and Computer Graphics; using C# and C++ at the moment.
 
 ## My preffered tools, by proficiency
 

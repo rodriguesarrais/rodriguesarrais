@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rodriguesarrais&label=Profile%20views&color=0e75b6&style=flat" alt="rodriguesarrais" /> </p>
 
-<h3 align="center">Hi! I'm Arrais, a passionate developer from Brazil!</h3>
+<h3 align="center">Hi! I'm Eric, a passionate developer from Brazil!</h3>
 
 <!--<img src="https://github.com/user-attachments/assets/ae4b737c-1f99-404d-be8a-3732062ebaba" alt="hello-world"> -->
 

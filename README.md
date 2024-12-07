@@ -53,7 +53,7 @@ I'm:
 <h6>2D and 3D Asset Creation Software</h6>
 
 ![Aseprite](https://img.shields.io/badge/-Aseprite-333333?style=flat&logo=aseprite&logoColor=white)
-![Blender](https://img.shields.io/badge/-Blender-333333?style=flat&logo=blender&logoColor=F57922)
+![Maya](https://img.shields.io/badge/-Maya-333333?style=flat&logo=autodeskmaya&logoColor=008080)
 
 <h6>DAWs</h6>
 

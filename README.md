@@ -45,17 +45,17 @@ I'm:
 
 ![Unity](https://img.shields.io/badge/-Unity-333333?style=flat&logo=unity&logoColor=FFFFFF)
 ![Godot](https://img.shields.io/badge/-Godot-333333?style=flat&logo=godotengine&logoColor=8FD9FB)
-![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-333333?style=flat&logo=unrealengine&logoColor=FFFFFF)
 ![GameMaker Studio 2](https://img.shields.io/badge/-GameMaker%20Studio%202-333333?style=flat&logo=gamemaker&logoColor=008080)
+![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-333333?style=flat&logo=unrealengine&logoColor=FFFFFF)
 ![RPG Maker MV](https://img.shields.io/badge/-RPG%20Maker%20MV-333333?style=flat&logo=vscode&logoColor=007ACC)
 
 
 **Asset Creation Software**
 
-<h6>2D and 3D Asset Creation Software</h6>
+<h6>Art Software</h6>
 
 ![Aseprite](https://img.shields.io/badge/-Aseprite-333333?style=flat&logo=aseprite&logoColor=white)
-![Maya](https://img.shields.io/badge/-Maya-333333?style=flat&logo=autodeskmaya&logoColor=008080)
+![Blender](https://img.shields.io/badge/-Blender-333333?style=flat&logo=blender&logoColor=F5792A)  
 
 <h6>DAWs</h6>
 

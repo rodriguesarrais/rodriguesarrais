@@ -12,19 +12,20 @@ I am a software developer with a passion for technology and a constant drive to 
 I'm:
 -  Always exploring new tech and developing new software.
 -  Working as a TypeScript Fullstack Developer.
--  Currently learning more about Game Development and Shaders; using C# and C++ at the moment.
+-  Currently learning more about 3D Art in general; using Blender.
 
 ## My preffered tools, by proficiency
 
 **Programming Languages**
 
 ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=dotnet&logoColor=A179DC)
+![GDScript](https://img.shields.io/badge/-GDScript-333333?style=flat&logo=godotengine&logoColor=478CBF) 
+![GML](https://img.shields.io/badge/-GML-333333?style=flat&logo=gamemaker&logoColor=F7F7F7)
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=FFD43B)
 ![Lua](https://img.shields.io/badge/-Lua-333333?style=flat&logo=lua&logoColor=000080)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-![GML](https://img.shields.io/badge/-GML-333333?style=flat&logo=vscode&logoColor=007ACC)
 <!--![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php&logoColor=BB7772) -->
 
 **Markup Languages**
@@ -38,15 +39,16 @@ I'm:
 
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react&logoColor=61DBFB)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js&logoColor=339933)
-![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi&logoColor=008080)
+![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django&logoColor=008080)
 
 **Game Engines**
 
 ![Unity](https://img.shields.io/badge/-Unity-333333?style=flat&logo=unity&logoColor=FFFFFF)
+![Godot](https://img.shields.io/badge/-Godot-333333?style=flat&logo=godotengine&logoColor=8FD9FB)
 ![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-333333?style=flat&logo=unrealengine&logoColor=FFFFFF)
 ![GameMaker Studio 2](https://img.shields.io/badge/-GameMaker%20Studio%202-333333?style=flat&logo=gamemaker&logoColor=008080)
 ![RPG Maker MV](https://img.shields.io/badge/-RPG%20Maker%20MV-333333?style=flat&logo=vscode&logoColor=007ACC)
-![Godot](https://img.shields.io/badge/-Godot-333333?style=flat&logo=godotengine&logoColor=8FD9FB)
+
 
 **Asset Creation Software**
 

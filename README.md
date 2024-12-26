@@ -17,15 +17,16 @@ I'm:
 ## My preffered tools, by proficiency
 
 **Programming Languages**
-
-![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=dotnet&logoColor=A179DC)
-![GDScript](https://img.shields.io/badge/-GDScript-333333?style=flat&logo=godotengine&logoColor=478CBF) 
-![GML](https://img.shields.io/badge/-GML-333333?style=flat&logo=gamemaker&logoColor=F7F7F7)
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=dotnet&logoColor=A179DC)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=FFD43B)
 ![Lua](https://img.shields.io/badge/-Lua-333333?style=flat&logo=lua&logoColor=000080)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![GDScript](https://img.shields.io/badge/-GDScript-333333?style=flat&logo=godotengine&logoColor=478CBF) 
+![GML](https://img.shields.io/badge/-GML-333333?style=flat&logo=gamemaker&logoColor=F7F7F7)
+
+
 <!--![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php&logoColor=BB7772) -->
 
 **Markup Languages**

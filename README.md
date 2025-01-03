@@ -12,7 +12,7 @@ I am a software developer with a passion for technology and a constant drive to 
 I'm:
 -  Always exploring new tech and developing new software.
 -  Working as a TypeScript Fullstack Developer.
--  Currently learning more about 3D Art in general; using Blender.
+-  Currently building my own Game Engine; Using C++ and Lua.
 
 ## My preffered tools, by proficiency
 
@@ -20,49 +20,33 @@ I'm:
 
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
 ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=dotnet&logoColor=A179DC)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=007396)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=FFD43B)
 ![Lua](https://img.shields.io/badge/-Lua-333333?style=flat&logo=lua&logoColor=000080)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![GDScript](https://img.shields.io/badge/-GDScript-333333?style=flat&logo=godotengine&logoColor=478CBF) 
-![GML](https://img.shields.io/badge/-GML-333333?style=flat&logo=gamemaker&logoColor=F7F7F7)
-
 
 <!--![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php&logoColor=BB7772) -->
 
 **Markup Languages**
 
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![XML](https://img.shields.io/badge/-XML-333333?style=flat&logo=xml&logoColor=0069a9)
 ![JSON](https://img.shields.io/badge/-JSON-333333?style=flat&logo=json&logoColor=6C72BF)
+![XML](https://img.shields.io/badge/-XML-333333?style=flat&logo=xml&logoColor=0069a9)
 ![CSS3](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 
 **Web Frameworks**
 
+![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=spring&logoColor=6DB33F)
+![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django&logoColor=008080)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react&logoColor=61DBFB)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js&logoColor=339933)
-![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django&logoColor=008080)
 
 **Game Engines**
 
 ![Unity](https://img.shields.io/badge/-Unity-333333?style=flat&logo=unity&logoColor=FFFFFF)
 ![Godot](https://img.shields.io/badge/-Godot-333333?style=flat&logo=godotengine&logoColor=8FD9FB)
-![GameMaker Studio 2](https://img.shields.io/badge/-GameMaker%20Studio%202-333333?style=flat&logo=gamemaker&logoColor=008080)
 ![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-333333?style=flat&logo=unrealengine&logoColor=FFFFFF)
-![RPG Maker MV](https://img.shields.io/badge/-RPG%20Maker%20MV-333333?style=flat&logo=vscode&logoColor=007ACC)
-
-
-**Asset Creation Software**
-
-<h6>Art Software</h6>
-
-![Aseprite](https://img.shields.io/badge/-Aseprite-333333?style=flat&logo=aseprite&logoColor=white)
-![Blender](https://img.shields.io/badge/-Blender-333333?style=flat&logo=blender&logoColor=F5792A)  
-
-<h6>DAWs</h6>
-
-![Audacity](https://img.shields.io/badge/-Audacity-333333?style=flat&logo=audacity&logoColor=FFC107)
-![Reaper](https://img.shields.io/badge/-Reaper-333333?style=flat&logo=reaper&logoColor=008080)
 
 **General Utilities**
 
@@ -87,6 +71,18 @@ I'm:
 
 ![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira&logoColor=0052cc)
 ![Redmine](https://img.shields.io/badge/-Redmine-333333?style=flat&logo=Redmine&logoColor=d6338b)
+
+**Asset Creation Software**
+
+<h6>Art Software</h6>
+
+![Aseprite](https://img.shields.io/badge/-Aseprite-333333?style=flat&logo=aseprite&logoColor=white)
+![Blender](https://img.shields.io/badge/-Blender-333333?style=flat&logo=blender&logoColor=F5792A)  
+
+<h6>DAWs</h6>
+
+![Audacity](https://img.shields.io/badge/-Audacity-333333?style=flat&logo=audacity&logoColor=FFC107)
+![Reaper](https://img.shields.io/badge/-Reaper-333333?style=flat&logo=reaper&logoColor=008080)
 
 **Design Tools**
 

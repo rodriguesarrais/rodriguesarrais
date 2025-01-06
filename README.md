@@ -6,7 +6,7 @@
 
 ## About me
 
-I am a software developer with a passion for technology and a constant drive to learn. Currently, I am honing my software development skills by applying practical knowledge in TypeScript, with React, as well as backend services with Node.js, acting as a full-stack developer. I have a knack for some low-level programming topics too, such as game development and computer graphics simulations. In these topics, i try to implement most of my code myself, as a way to learn more and keep my programming/architectural skills sharp. I love coding!
+I am a software developer with a passion for technology and a constant drive to learn. Currently, I am honing my software development skills by applying practical knowledge in TypeScript, with React and React Native as frontends, as well as backend services with Node.js, acting as a full-stack developer. I have a knack for some low-level programming topics too, such as game development and computer graphics simulations. In these topics, i try to implement most of my code myself, as a way to learn more and keep my programming/architectural skills sharp. I love coding!
 
 ## TL;DR
 I'm:
@@ -18,14 +18,14 @@ I'm:
 
 **Programming Languages**
 
-![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=dotnet&logoColor=A179DC)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=007396)
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=FFD43B)
-![Lua](https://img.shields.io/badge/-Lua-333333?style=flat&logo=lua&logoColor=000080)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=007396)
+![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=dotnet&logoColor=A179DC)
+![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=java&logoColor=007396)
+![Lua](https://img.shields.io/badge/-Lua-333333?style=flat&logo=lua&logoColor=000080)
 <!--![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php&logoColor=BB7772) -->
 
 **Markup Languages**
@@ -35,12 +35,25 @@ I'm:
 ![XML](https://img.shields.io/badge/-XML-333333?style=flat&logo=xml&logoColor=0069a9)
 ![CSS3](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 
+**Databases**
+
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql&logoColor=4479A1)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql&logoColor=336791)
+![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite&logoColor=FFFF00)
+![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-333333?style=flat&logo=microsoftsqlserver&logoColor=CC2927)
+
+
 **Web Frameworks**
 
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react&logoColor=61DBFB)
 ![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=spring&logoColor=6DB33F)
 ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django&logoColor=008080)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react&logoColor=61DBFB)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js&logoColor=339933)
+
+**Mobile Frameworks**
+
+![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react&logoColor=61DBFB)
+
 
 **Game Engines**
 

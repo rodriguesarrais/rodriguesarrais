@@ -12,7 +12,6 @@ I am a software developer with a passion for technology and a constant drive to 
 I'm:
 -  Always exploring new tech and developing new software.
 -  Working as a TypeScript Fullstack Developer.
--  Currently building my own Game Engine; Using C++ and Lua.
 
 ## My preffered tools, by proficiency
 
@@ -45,10 +44,11 @@ I'm:
 
 **Web Frameworks**
 
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react&logoColor=61DBFB)
+![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular&logoColor=ff0000)
 ![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=spring&logoColor=6DB33F)
-![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django&logoColor=008080)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react&logoColor=61DBFB)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js&logoColor=339933)
+![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django&logoColor=008080)
 
 **Mobile Frameworks**
 

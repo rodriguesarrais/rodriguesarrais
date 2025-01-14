@@ -6,47 +6,48 @@
 
 ## About me
 
-I am a software developer with a passion for technology and a constant drive to learn. Currently, I am honing my software development skills by applying practical knowledge in TypeScript, with React and React Native as frontends, as well as backend services with Node.js, acting as a full-stack developer. I have a knack for some low-level programming topics too, such as game development and computer graphics simulations. In these topics, i try to implement most of my code myself, as a way to learn more and keep my programming/architectural skills sharp. I love coding!
+I am a Systems Analysis and Development student with a passion for technology and a constant drive to learn. I bring considerable experience as a TypeScript full-stack developer, building frontend applications with React and React Native. Currently, I am expanding my skill set by learning Data Science and ML with Python for developing computer vision software, and Rust to develop efficient and robust command-line tools. I also enjoy exploring low-level programming topics, such as systems development, often implementing solutions from scratch to deepen my understanding and refine my architectural skills. I quite enjoy coding and solving complex problems.
 
 ## TL;DR
 I'm:
 -  Always exploring new tech and developing new software.
 -  Working as a TypeScript Fullstack Developer.
 
-## My preffered tools, by proficiency
+## My preffered tools, by preference
 
 **Programming Languages**
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![R](https://img.shields.io/badge/-R-333333?style=flat&logo=r&logoColor=276DC3)
+![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=rust&logoColor=DEA584)
+![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=java&logoColor=007396)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=dotnet&logoColor=A179DC)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=007396)
-![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=java&logoColor=007396)
-![Lua](https://img.shields.io/badge/-Lua-333333?style=flat&logo=lua&logoColor=000080)
-<!--![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php&logoColor=BB7772) -->
 
 **Markup Languages**
 
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![JSON](https://img.shields.io/badge/-JSON-333333?style=flat&logo=json&logoColor=6C72BF)
-![XML](https://img.shields.io/badge/-XML-333333?style=flat&logo=xml&logoColor=0069a9)
 ![CSS3](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 
 **Databases**
 
+![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite&logoColor=FFFF00)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql&logoColor=4479A1)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql&logoColor=336791)
-![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite&logoColor=FFFF00)
 ![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-333333?style=flat&logo=microsoftsqlserver&logoColor=CC2927)
 
+**Development Environments**
+
+![Anaconda](https://img.shields.io/badge/-Anaconda-333333?style=flat&logo=anaconda&logoColor=44A833)
+
+**ML Tools**
+
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-333333?style=flat&logo=scikit-learn&logoColor=F7931E)  
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow&logoColor=FF6F00)
 
 **Web Frameworks**
 
-![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular&logoColor=ff0000)
-![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=spring&logoColor=6DB33F)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react&logoColor=61DBFB)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js&logoColor=339933)
 ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django&logoColor=008080)
@@ -55,13 +56,13 @@ I'm:
 
 ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react&logoColor=61DBFB)
 
-
+<!--
 **Game Engines**
 
 ![Unity](https://img.shields.io/badge/-Unity-333333?style=flat&logo=unity&logoColor=FFFFFF)
 ![Godot](https://img.shields.io/badge/-Godot-333333?style=flat&logo=godotengine&logoColor=8FD9FB)
 ![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-333333?style=flat&logo=unrealengine&logoColor=FFFFFF)
-
+-->
 **General Utilities**
 
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
@@ -85,23 +86,6 @@ I'm:
 
 ![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira&logoColor=0052cc)
 ![Redmine](https://img.shields.io/badge/-Redmine-333333?style=flat&logo=Redmine&logoColor=d6338b)
-
-**Asset Creation Software**
-
-<h6>Art Software</h6>
-
-![Aseprite](https://img.shields.io/badge/-Aseprite-333333?style=flat&logo=aseprite&logoColor=white)
-![Blender](https://img.shields.io/badge/-Blender-333333?style=flat&logo=blender&logoColor=F5792A)  
-
-<h6>DAWs</h6>
-
-![Audacity](https://img.shields.io/badge/-Audacity-333333?style=flat&logo=audacity&logoColor=FFC107)
-![Reaper](https://img.shields.io/badge/-Reaper-333333?style=flat&logo=reaper&logoColor=008080)
-
-**Design Tools**
-
-![Figma](https://img.shields.io/badge/-Figma-333333?style=style=flat&logo=figma&logoColor=007ACC)
-![Canva](https://img.shields.io/badge/-Canva-333333?style=flat&logo=canva&logoColor=00A1F1)
 
 <br/>
 

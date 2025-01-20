@@ -17,12 +17,14 @@ I'm:
 
 **Programming Languages**
 
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=rust&logoColor=DEA584)
-![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=java&logoColor=007396)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
+![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=rust&logoColor=DEA584)
+![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=java&logoColor=007396)
 ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=dotnet&logoColor=A179DC)
+
 
 **Markup Languages**
 

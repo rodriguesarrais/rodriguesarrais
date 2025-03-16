@@ -6,12 +6,11 @@
 
 ## About me
 
-I am a Software Engineering student with a passion for technology and a constant drive to learn. I bring considerable experience as a TypeScript full-stack developer, building frontend applications with React and React Native, and Backend services in Spring and FastAPI. Currently, I am expanding my skill set by building production-grade software on an undisclosed project. I am fond of exploring low-level programming topics, such as systems development, often implementing solutions from scratch to deepen my understanding and refine my architectural skills. I quite enjoy coding and solving complex problems.
+I am a Software Engineering student with a passion for technology and a constant drive to learn. I bring considerable experience as a TypeScript full-stack developer, building frontend applications with React and React Native. Currently, I am expanding my skill set by building production-grade software on an undisclosed project. I am fond of exploring low-level programming topics, such as graphics programming. I quite enjoy coding and solving complex problems.
 
 ## TL;DR
 I'm:
 -  Always exploring new tech and developing new software.
--  Working as a TypeScript Fullstack Developer at A2p.
 
 ## My preffered tools and skillsets, by preference
 
@@ -20,9 +19,9 @@ I'm:
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=buymeacoffee&logoColor=DEA584)
-![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=java&logoColor=007396)
+![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus)
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
+![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=java&logoColor=007396)
 
 **Web Frameworks**
 

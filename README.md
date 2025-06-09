@@ -6,26 +6,27 @@
 
 ## About me
 
-I am a Software Engineering student with a passion for technology and a constant drive to learn. I bring considerable experience as a TypeScript full-stack developer, building frontend applications with React and React Native. Currently, I am expanding my skill set by building production-grade software on an undisclosed project. I am fond of exploring low-level programming topics, such as graphics programming. I quite enjoy coding and solving complex problems.
+I am a software engineer with a passion for technology and a constant drive to learn. I bring considerable experience as a TypeScript full-stack developer, building frontend applications with React and backend services with Express and Nest.js. Currently, I am expanding my skill set by building production-grade software on an undisclosed project. I am fond of exploring low-level programming topics, such as gameplay and game engine development.
 
 ## TL;DR
 I'm:
+-  Working as a TypeScript Fullstack Developer.
+-  Quite fond of game development.
 -  Always exploring new tech and developing new software.
 
 ## My preffered tools and skillsets, by preference
 
 **Programming Languages**
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logoColor=white)
-![Go](https://img.shields.io/badge/-Golang-00ADD8?style=flat&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logoColor=white)
+![Lua](https://img.shields.io/badge/-Lua-333333?style=flat&logoColor=000035)
+![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logoColor=white)
+![C++](https://img.shields.io/badge/-C&#47;C&#43;&#43;-333333?style=flat&logoColor=white)
 
 **Web Frameworks**
 
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react&logoColor=61DBFB)
-![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=spring&logoColor=61DBFB)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js&logoColor=339933)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi&logoColor=008080)
 
@@ -51,11 +52,12 @@ I'm:
 
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-333333?style=flat&logo=scikit-learn&logoColor=F7931E)  
 
+**Game Development Tools**
 
-
-**Game Engines**
-
-![Unity](https://img.shields.io/badge/-Unity-333333?style=flat&logo=unity&logoColor=FFFFFF)
+![Raylib](https://img.shields.io/badge/-Raylib-333333?style=flat&logo=raylib&logoColor=FFFFFF)
+![Bullet Physics](https://img.shields.io/badge/-Bullet%20Physics-333333?style=flat&logo=bullet&logoColor=FFFFFF)
+![Dear ImGui](https://img.shields.io/badge/-Dear%20ImGui-333333?style=flat&logo=imgui&logoColor=FFFFFF)
+![Tiled](https://img.shields.io/badge/-Tiled-333333?style=flat&logo=tiled&logoColor=FFFFFF)
 
 **General Utilities**
 
@@ -79,7 +81,6 @@ I'm:
 ![DataGrip](https://img.shields.io/badge/-DataGrip-333333?style=flat&logo=datagrip)
 ![Visual Studio 2022](https://img.shields.io/badge/-Visual%20Studio%2022-333333?style=flat&logo=visualstudio&logoColor=5C2D91)
 ![Notepad++](https://img.shields.io/badge/-Notepad%2B%2B-333333?style=flat&logo=notepadplusplus&logoColor=0098DA)
-
 
 **Project Management**
 

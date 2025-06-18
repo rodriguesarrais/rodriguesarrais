@@ -6,7 +6,7 @@
 
 ## About me
 
-I am a software engineer with a passion for technology and a constant drive to learn. I bring considerable experience as a TypeScript full-stack developer, building frontend applications with React and backend services with Express and Nest.js. Currently, I am expanding my skill set by building production-grade software on an undisclosed project. I am fond of exploring low-level programming topics, such as gameplay and game engine development.
+I am a software engineer with a passion for technology and a constant drive to learn.
 
 ## TL;DR
 I'm:
@@ -20,7 +20,6 @@ I'm:
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logoColor=white)
-![Lua](https://img.shields.io/badge/-Lua-333333?style=flat&logoColor=000035)
 ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logoColor=white)
 ![C++](https://img.shields.io/badge/-C&#47;C&#43;&#43;-333333?style=flat&logoColor=white)
 

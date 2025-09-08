@@ -5,30 +5,28 @@
 <!--<img src="https://github.com/user-attachments/assets/ae4b737c-1f99-404d-be8a-3732062ebaba" alt="hello-world"> -->
 
 ## About me
+I'm a versatile software engineer and game developer, quite fond of developing tools *for developers* so they can make amazing things. Always exploring new tech and developing new software.
 
-I am a software engineer and game developer with a passion for technology and a constant drive to learn.
-
-## TL;DR
-I'm:
--  A Fullstack Developer, currently pivoting my career to Game Dev;
--  Quite fond of developing tools for developers;
--  Always exploring new tech and developing new software.
-
-## My preffered tools and skillsets, by preference
+## Some of my preffered tools and skillsets, by preference
 
 **Programming Languages**
 
 ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logoColor=white)
 ![C++](https://img.shields.io/badge/-C&#47;C&#43;&#43;-333333?style=flat&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logoColor=white)
 
 **Game Development Tools**
 
 ![Unity](https://img.shields.io/badge/-Unity-333333?style=flat&logo=unity&logoColor=FFFFFF)
-![Bullet Physics](https://img.shields.io/badge/-Bullet%20Physics-333333?style=flat&logo=bullet&logoColor=FFFFFF)
 ![Dear ImGui](https://img.shields.io/badge/-Dear%20ImGui-333333?style=flat&logo=imgui&logoColor=FFFFFF)
 ![Tiled](https://img.shields.io/badge/-Tiled-333333?style=flat&logo=tiled&logoColor=FFFFFF)
+![Bullet Physics](https://img.shields.io/badge/-Bullet%20Physics-333333?style=flat&logo=bullet&logoColor=FFFFFF)
+
+**ML Tools**
+
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-333333?style=flat&logo=scikit-learn&logoColor=F7931E)
+![Tensorflow](https://img.shields.io/badge/-tensorflow-333333?style=flat&logo=tensorflow&logoColor=F7931E)  
 
 **Dev Tools**
 
@@ -78,9 +76,6 @@ I'm:
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql&logoColor=4479A1)
 ![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-333333?style=flat&logo=microsoftsqlserver&logoColor=CC2927)
 
-**ML Tools**
-
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-333333?style=flat&logo=scikit-learn&logoColor=F7931E)  
 
 **General Utilities**
 

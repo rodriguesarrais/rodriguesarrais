@@ -87,11 +87,11 @@ I'm a versatile software engineer and game developer, quite fond of developing t
 ![Discord](https://img.shields.io/badge/-Discord-333333?style=flat&logo=discord)
 -->
 <br/>
-
+<!--
 <a href="https://github.com/rodriguesarrais" title="My Profile">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodriguesarrais&theme=dracula&show_icons=true" />
 </a>
-
+-->
 ## Where to find me...
 
 [![Linkedin](https://img.shields.io/badge/-rodriguesarrais-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodriguesarrais/)](https://www.linkedin.com/in/rodriguesarrais/)
